@@ -1,0 +1,96 @@
+
+/* header */
+    
+  
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}    
+
+
+.row{
+   margin: auto;
+   text-align: center;
+   position: relative;
+   
+}
+
+#logo{
+    width: 15%;
+    margin-top: 5%;
+}
+
+
+h1{
+    color: #00CD00;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+
+.navigation{
+    border: solid #00CD00;
+    background-color: #00CD00;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 5px;
+}
+
+.bottone{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    
+}
+
+
+/* main */
+
+
+.container{
+   margin-left: 21%;
+   margin-right: 21%;
+}
+
+h2{
+    display: inline-block;
+    color: white;
+    margin-bottom: 10px;    
+}
+
+h3{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#stato_carica{
+    width: 400px;
+    height: 25px;
+    background-color: #EEB422;
+    border: solid #EEB422;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#stato_carica2{
+    width: 700px;
+    height: 25px;
+    background-color: #00CD00;
+    border: solid #00CD00;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+#stato_carica3{
+    width: 100px;
+    height: 25px;
+    background-color: indianred;
+    border: solid indianred;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
